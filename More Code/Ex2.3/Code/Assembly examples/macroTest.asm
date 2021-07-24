@@ -1,0 +1,16 @@
+index=100
+sum=0
+(LOOP)
+@index
+A=M
+D=M
+@sum
+M=M+D
+index++
+D=index
+@200
+D=D-A
+@LOOP
+D;JLT
+(END)
+0;JMP:END

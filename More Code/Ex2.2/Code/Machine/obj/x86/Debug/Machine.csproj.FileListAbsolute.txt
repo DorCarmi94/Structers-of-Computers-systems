@@ -1,0 +1,28 @@
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.ScreenUI.resources
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.csproj.GenerateResource.Cache
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\SimpleComponents.exe
+D:\Teaching\ECS\Excersises\Ex2\Machine\bin\Debug\SimpleComponents.pdb
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Machine\obj\x86\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\Machine.exe
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\Machine.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\SimpleComponents.exe
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\bin\Debug\SimpleComponents.pdb
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.ScreenUI.resources
+D:\Teaching\ECS\Excersises\Ex2\Code\Machine\obj\x86\Debug\Machine.csproj.GenerateResource.Cache
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\bin\Debug\Machine.exe
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\bin\Debug\Machine.pdb
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\bin\Debug\SimpleComponents.exe
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\bin\Debug\SimpleComponents.pdb
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\obj\x86\Debug\Machine.csprojAssemblyReference.cache
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\obj\x86\Debug\Machine.ScreenUI.resources
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\obj\x86\Debug\Machine.csproj.GenerateResource.cache
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\obj\x86\Debug\Machine.csproj.CopyComplete
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\obj\x86\Debug\Machine.exe
+D:\University\3rd Simester\Structers of Computers systems\Homework\Ex2\Ex2.2\Code\Machine\obj\x86\Debug\Machine.pdb
